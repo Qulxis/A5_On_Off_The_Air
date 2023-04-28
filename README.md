@@ -6,7 +6,7 @@ Our work is a final project for our class in Data Vizualization.
 
 ## Instructions and Guide:
 The repository contains both the code we used to process our data as well as a one epsidoes worth of data as a sample dataset that serves as an example output.
-These are stored in the 
+These are stored in the "development" and "data" folder respectively. 
 
 ## Team Members:
 Andrew Xavier
