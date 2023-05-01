@@ -11,6 +11,6 @@ These are stored in the "development" and "data" folder respectively.
 ## Team Members:
 - [Andrew Xavier](https://github.com/Qulxis)
 - [Maddie Kearns](https://github.com/maddie-kearns)
-- Amir Lankarani
-- Jit Soon Foo
+- [Amir Lankarani](https://github.com/lankaraniamir)
+- [Jit Soon Foo](https://github.com/jf3482)
 
